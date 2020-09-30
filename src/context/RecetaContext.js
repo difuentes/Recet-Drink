@@ -26,7 +26,7 @@ const RecetaProvider = (props) => {
             obtenerRecetas()
         }
 
-
+        // eslint-disable-next-line
     },[busqueda])
 
     return (  
